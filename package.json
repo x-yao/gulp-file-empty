@@ -1,11 +1,11 @@
 {
   "name": "gulp-file-empty",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "check file if empty",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xyao/gulp-file-empty.git"
+    "url": "git+https://github.com/x-yao/gulp-file-empty.git"
   },
   "author": "xyao <xyao201@qq.com> (github.com/x-yao)",
   "engines": {
@@ -25,9 +25,9 @@
     "through2": "^2.0.0"
   },
   "bugs": {
-    "url": "https://github.com/xyao/gulp-file-empty/issues"
+    "url": "https://github.com/x-yao/gulp-file-empty/issues"
   },
-  "homepage": "https://github.com/xyao/gulp-file-empty#readme",
+  "homepage": "https://github.com/x-yao/gulp-file-empty#readme",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
